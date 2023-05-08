@@ -1,0 +1,8 @@
+package com.studies;
+
+public class A implements Z {
+    @Override
+    public void method() {
+
+    }
+}
